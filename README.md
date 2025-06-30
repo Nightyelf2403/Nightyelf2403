@@ -1,6 +1,7 @@
 <!-- Header GIF & Social Badges -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey+There+👋&animation=fadeIn&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20👋%20I'm%20Lalith%20Aditya&fontSize=30&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50" />
+
   <p>
     <a href="https://nightyelf2403.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=About.me&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/lalith-aditya-chunduri-76573421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
