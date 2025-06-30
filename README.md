@@ -37,11 +37,9 @@
 
 ### 🌤️ Current Conditions
 
-<p align="center">
-  <a href="https://www.timeanddate.com/weather/usa/moscow">
-    <img src="https://www.timeanddate.com/scripts/cityog.php?n=usa/moscow" alt="Weather in Moscow, ID" width="300px"/>
-  </a>
-</p>
+
+
+[![Weather](https://img.shields.io/badge/Weather-Moscow%2C%20ID-blue?style=flat-square&logo=cloud&logoColor=white)](https://www.timeanddate.com/weather/usa/moscow)
 
 
 
