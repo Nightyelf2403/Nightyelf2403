@@ -7,6 +7,8 @@
 
 ---
 
+https://github-profile-trophy.vercel.app/Nightyelf2403=ryo-ma&margin-w=15
+
 ## 🚀 Summary
 
 Creative and results-driven **Computer Science student** with hands-on experience in **full-stack development, API integrations, and Agile collaboration**. Strong background in building scalable web apps, games, and automation tools. Passionate about solving real-world problems through elegant code and engaging UI/UX. Currently seeking a **Software Engineering Internship** at Rocket Lawyer to contribute impactful solutions.
