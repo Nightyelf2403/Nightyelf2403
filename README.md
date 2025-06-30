@@ -1,3 +1,18 @@
+<!-- Header GIF & Social Badges -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey+There+👋&animation=fadeIn&color=gradient&height=120"/>
+  <p>
+    <a href="https://nightyelf2403.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/lalith-aditya-chunduri-76573421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/Nightyelf2403"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Nightyelf2403&label=Profile+Views&color=blue" alt="Visitor Count" />
+</div>
+
+---
+
+
 <h1 align="center">👨‍💻 Lalith Aditya Chunduri</h1>
 
 <p align="center">
