@@ -16,6 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=Nightyelf2403&label=Profile+Views&color=blue" alt="Visitor Count" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nightyelf2403&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 ## 🚀 Summary
 
