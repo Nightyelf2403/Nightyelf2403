@@ -35,18 +35,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,bootstrap,sass,nodejs,express,mongodb,mysql,python,php,django,c,cpp,git,github,unity,aws" />
 </p>
 
----
-
-### 🌤️ Current Conditions
-
-
-
-[![Weather](https://img.shields.io/badge/Weather-Moscow%2C%20ID-blue?style=flat-square&logo=cloud&logoColor=white)](https://www.timeanddate.com/weather/usa/moscow)
-
-
-
-
-</p>
 
 ---
 
@@ -57,23 +45,12 @@
     <td width="50%">
       <h3 align="center">🌦️ Full Stack Weather App</h3>
       <a href="https://github.com/Nightyelf2403/WeatherApp">
-        <img src="https://github.com/Nightyelf2403/WeatherApp/raw/main/preview.png" alt="Weather App Screenshot" width="100%" />
+        <img src="https://github.com/Nightyelf2403/wa/blob/main/screenshots/light-mode.png" alt="Weather App Screenshot" width="100%" />
       </a>
       <p align="center">
         <b>React • OpenWeather API • Google Maps</b><br/>
         Responsive weather dashboard with 5-day forecast and real-time data.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔁 BarterDB Platform</h3>
-      <a href="https://github.com/Nightyelf2403/BarterDB">
-        <img src="https://github.com/Nightyelf2403/BarterDB/raw/main/preview.png" alt="BarterDB Screenshot" width="100%" />
-      </a>
-      <p align="center">
-        <b>PHP • MySQL • React</b><br/>
-        Full-stack bartering platform with item exchange and dashboard.
-      </p>
-    </td>
+    
   </tr>
 </table>
 
