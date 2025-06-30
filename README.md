@@ -16,6 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=Nightyelf2403&label=Profile+Views&color=blue" alt="Visitor Count" />
 </p>
 
+[![Weather](https://img.shields.io/badge/Weather-Moscow%2C%20ID-007ec6?style=for-the-badge&logo=cloud&logoColor=white)](https://www.timeanddate.com/weather/usa/moscow)
+
 ---
 
 ## 👨‍💻 About Me
