@@ -1,18 +1,17 @@
 name: Update GitHub Stats Daily
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
 
 jobs:
-  update-readme:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: America/Boise
+          filename: github-metrics.svg
