@@ -35,12 +35,14 @@
 
 ---
 
-## 🌤️ Current Weather in Idaho
+### 🌤️ Current Conditions
 
 <p align="center">
-
-  <img src="https://wttr.in/83843?format=3" alt="Weather in Idaho" />
+  <a href="https://www.timeanddate.com/weather/usa/moscow">
+    <img src="https://www.timeanddate.com/scripts/cityog.php?n=usa/moscow" alt="Weather in Moscow, ID" width="300px"/>
+  </a>
 </p>
+
 
 
 
