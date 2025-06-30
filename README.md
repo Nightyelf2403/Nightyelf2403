@@ -1,32 +1,22 @@
-<!-- Header GIF & Social Badges -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20👋%20I'm%20Lalith%20Aditya&fontSize=30&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20👋%20I'm%20Lalith%20Aditya&fontSize=30&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50" />
 
-  <p>
-    <a href="https://nightyelf2403.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/lalith-aditya-chunduri-76573421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/Nightyelf2403"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
-  <br/>
+<!-- Social Icons -->
+<p align="center">
+  📍 <b>Location:</b> Moscow, Idaho, USA  
+</p>
+
+<p align="center">
+  <a href="https://nightyelf2403.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Website-blue?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lalith-aditya-chunduri-76573421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Nightyelf2403"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nightyelf2403&label=Profile+Views&color=blue" alt="Visitor Count" />
-</div>
-
----
-
-
-<h1 align="center">👨‍💻 Lalith Aditya Chunduri</h1>
-
-<p align="center">
-  📍 Idaho, USA &nbsp;|&nbsp; 📧 adiaditya7907@gmail.com &nbsp;|&nbsp; 📞 +1 (208) 874-9057  
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lalith-aditya-chunduri-76573421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nightyelf2403"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nightyelf2403&label=Profile+Views&color=blue" alt="Visitor count" />
 </p>
 
 ---
-
 ## 🚀 Summary
 
 Creative and results-driven **Computer Science student** with hands-on experience in full-stack development, API integrations, and Agile workflows. Skilled in building scalable web apps, games, and automation tools. Seeking a **Software Engineering Internship** to contribute and grow.
