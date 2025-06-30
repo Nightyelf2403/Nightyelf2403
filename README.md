@@ -1,9 +1,9 @@
-<!-- Animated Banner -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20👋%20I'm%20Lalith%20Aditya&fontSize=30&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50" />
 
-<!-- Social Icons -->
+<!-- Social Links -->
 <p align="center">
-  📍 <b>Location:</b> Moscow, Idaho, USA  
+  📍 <strong>Moscow, Idaho, USA</strong>  
 </p>
 
 <p align="center">
@@ -16,41 +16,81 @@
   <img src="https://komarev.com/ghpvc/?username=Nightyelf2403&label=Profile+Views&color=blue" alt="Visitor Count" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nightyelf2403&theme=radical&row=1&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-
 ---
-## 🚀 Summary
 
-Creative and results-driven **Computer Science student** with hands-on experience in full-stack development, API integrations, and Agile workflows. Skilled in building scalable web apps, games, and automation tools. Seeking a **Software Engineering Internship** to contribute and grow.
+## 👨‍💻 About Me
+
+- 🎓 B.S. in Computer Science @ **University of Idaho** *(Graduating Dec 2025)*
+- 🔭 Currently working on: AI Resume Matcher, React Dashboards  
+- 🌱 Exploring: AWS, Ethical Hacking, CI/CD, Tailwind CSS  
+- 💬 Let's connect: adiaditya7907@gmail.com | +1 (208) 874‑9057  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,bootstrap,nodejs,express,mongodb,mysql,python,java,php,c,cpp,git,github,vscode,unity,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,bootstrap,sass,nodejs,express,mongodb,mysql,python,php,django,c,cpp,git,github,unity,aws" />
 </p>
 
 ---
+
+## 🌤️ Current Weather in Idaho
+
+<p align="center">
+  <img src="https://wttr.in/Moscow?format=3" alt="Weather in Moscow, Idaho" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌦️ Full Stack Weather App</h3>
+      <a href="https://github.com/Nightyelf2403/WeatherApp">
+        <img src="https://github.com/Nightyelf2403/WeatherApp/raw/main/preview.png" alt="Weather App Screenshot" width="100%" />
+      </a>
+      <p align="center">
+        <b>React • OpenWeather API • Google Maps</b><br/>
+        Responsive weather dashboard with 5-day forecast and real-time data.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔁 BarterDB Platform</h3>
+      <a href="https://github.com/Nightyelf2403/BarterDB">
+        <img src="https://github.com/Nightyelf2403/BarterDB/raw/main/preview.png" alt="BarterDB Screenshot" width="100%" />
+      </a>
+      <p align="center">
+        <b>PHP • MySQL • React</b><br/>
+        Full-stack bartering platform with item exchange and dashboard.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏅 Certifications
 
-- 🛡 **Network Ethical Hacking** – Udemy  
-- 🔐 **Introduction to Cybersecurity** – Cisco  
-- 🐍 **Python Essentials 1** – Cisco  
-- ⚛️ **React JS Certification** – GeeksForGeeks  
-- ☁️ **AWS Certified Cloud Practitioner** – GeeksForGeeks  
+- 🛡️ Network Ethical Hacking – Udemy  
+- 🔐 Introduction to Cybersecurity – Cisco  
+- 🐍 Python Essentials 1 – Cisco  
+- ⚛️ React JS – GeeksForGeeks  
+- ☁️ AWS Cloud Practitioner – GeeksForGeeks  
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nightyelf2403&theme=radical&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nightyelf2403&show_icons=true&theme=tokyonight" height="180" />
@@ -59,24 +99,11 @@ Creative and results-driven **Computer Science student** with hands-on experienc
 
 ---
 
-## 📜 Education
+## 📊 Contribution Metrics (Daily Updated)
 
-**Bachelor of Science in Computer Science**  
-*University of Idaho – Moscow, ID*  
-📅 *Expected Graduation*: December 2025  
-
-**Relevant Coursework**: Data Structures, Web Development, Software Engineering, Algorithms, Public Speaking
-
----
-
-## 📫 Let’s Connect!
-
-Feel free to reach out if you're looking for a passionate developer:
-
-- 📧 Email: adiaditya7907@gmail.com  
-- 📞 Phone: +1 (208) 874-9057  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lalith-aditya-chunduri-76573421a/)  
-- 💻 [GitHub](https://github.com/Nightyelf2403)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nightyelf2403/Nightyelf2403/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
