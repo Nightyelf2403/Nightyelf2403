@@ -38,7 +38,7 @@
 ## 🌤️ Current Weather in Idaho
 
 <p align="center">
-  <img src="https://wttr.in/Idaho?format=3" />
+  <img src="https://wttr.in/Idaho?format=3" alt="Weather in Moscow, Idaho" />
 
 
 </p>
