@@ -20,13 +20,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!%20I'm%20Lalith%20Aditya&fontSize=30&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20AI%20Builder&descAlignY=55&descAlign=50" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+React;Exploring+AI+and+Cloud;Always+Learning...+💡" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nightyelf2403&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=false&custom_title=My+GitHub+Stats" />
 </p>
 
 ## 👨‍💻 About Me
