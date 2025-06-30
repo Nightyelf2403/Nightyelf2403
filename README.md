@@ -20,7 +20,7 @@ Creative and results-driven **Computer Science student** with hands-on experienc
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,bootstrap,nodejs,express,mongodb,mysql,python,java,php,c,cpp,git,github,vscode,unity,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,bootstrap,nodejs,express,mongodb,mysql,python,java,php,c,cpp,git,github,vscode,unity,tensorflow,aws" />
 </p>
 
 ---
