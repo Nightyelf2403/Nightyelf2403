@@ -20,9 +20,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nightyelf2403&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=false&custom_title=My+GitHub+Stats" />
-</p>
+
 
 ## 👨‍💻 About Me
 
@@ -81,7 +79,8 @@
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nightyelf2403&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nightyelf2403&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=false&custom_title=My+GitHub+Stats" />
+</p>
   <img src="https://streak-stats.demolab.com?user=Nightyelf2403&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 </p>
 
