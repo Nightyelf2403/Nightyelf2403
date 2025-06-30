@@ -25,14 +25,6 @@ Creative and results-driven **Computer Science student** with hands-on experienc
 
 ---
 
-## 📂 Projects Showcase
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/107495645/325995297-ff70d7b5-4bde-48eb-8a16-9cb44bcd0f68.png" width="95%"/>
-</p>
-
-🟩 *Click to view more on portfolio or GitHub project pages*
-
 ---
 
 ## 🏅 Certifications
